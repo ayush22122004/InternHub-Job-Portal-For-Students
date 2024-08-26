@@ -1,0 +1,24 @@
+Company Name :- TCS
+Required Job Title :- SD
+Required CGPA :- 9.0
+Required Skills :- SDD
+Company Name :- TCS
+Required Job Title :- sd
+Required CGPA :- 9.0
+Required Skills :- sd
+Company Name :- qw
+Required Job Title :- qwe
+Required CGPA :- 2.0
+Required Skills :- qws
+Company Name :- est
+Required Job Title :- ih
+Required CGPA :- 9.0
+Required Skills :- uh
+Company Name :- 4
+Required Job Title :- 4
+Required CGPA :- 4.0
+Required Skills :- 4
+Company Name :- 3
+Required Job Title :- Data Analyst
+Required CGPA :- 8
+Required Skills :- Python

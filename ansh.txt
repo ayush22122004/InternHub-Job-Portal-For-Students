@@ -1,0 +1,55 @@
+PATEL ANSH PRAGNESHKUMAR 
+
+456 Oak Street
+Springfield, IL 62701
+(555) 987-6543
+aagam.shah@email.com
+
+Gender: Male
+
+Degree:
+
+Course Type: Bachelor's
+Specialization: Electrical Engineering
+University: Springfield University
+Starting Year: 2019
+Ending Year: 2023
+Grade Obtained: CGPA: 9.2/10
+Expected Salary: $65,000
+
+Resume Headline:
+Dedicated Electrical Engineering graduate with a strong foundation in circuit design and problem-solving.
+
+Resume Content:
+
+An enthusiastic Electrical Engineering graduate with a focus on circuit design and renewable energy systems. Proficient in MATLAB, C, and AutoCAD. Experienced in conducting research projects and collaborating with peers to achieve project objectives.
+
+Education:
+
+Bachelor of Science in Electrical Engineering, Springfield University, 2019 - 2023
+Relevant Coursework: Circuit Theory, Power Systems, Renewable Energy
+CGPA: 9.2/10
+Work Experience:
+
+Electrical Engineering Intern, ABC Power Solutions, Springfield, IL, Summer 2022
+Assisted in the design and testing of electrical systems for commercial buildings
+Conducted simulations and analysis to optimize energy efficiency
+Collaborated with senior engineers to troubleshoot and resolve technical issues
+Skills:
+
+Circuit Design
+MATLAB
+C Programming
+AutoCAD
+Renewable Energy Systems
+Certifications:
+
+Autodesk Certified Professional, AutoCAD, 2021
+Achievements:
+
+Research Assistant, Renewable Energy Lab, Springfield University, 2021 - 2023
+Recipient, Outstanding Student Award in Electrical Engineering, 2023
+Extracurricular Activities:
+
+Treasurer, Engineering Club, Springfield University, 2020 - 2022
+Volunteer, Habitat for Humanity, 2019 - Present
